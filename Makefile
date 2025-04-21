@@ -14,3 +14,5 @@ run1:
 	. venv/bin/activate; python3 src/Scenario1.py
 run2:
 	. venv/bin/activate; python3 src/Scenario2.py
+run3:
+	. venv/bin/activate; python3 src/Scenario3.py
