@@ -27,6 +27,8 @@ The Agent must collect 3 packages located somewhere in the environment. These pa
 
 ## How To Run
 
-A amkefile has been provided to install depedencies, start a virtual environment and run each python file.
+A makefile has been provided to install depedencies, start a virtual environment and run each python file.
 
-## The provided code was FourRooms.py and ExecutionSkeleton.py from [this paper](http://arxiv.org/abs/1906.10667). The code was not modified at all.
+## Template
+
+The provided code was FourRooms.py and ExecutionSkeleton.py from [this paper](http://arxiv.org/abs/1906.10667). The code was not modified at all.
